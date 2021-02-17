@@ -1,0 +1,34 @@
+div {
+	position: absolute;
+}
+
+#eye {
+  top: 25px;
+  left: 25px;
+  width: 100px;
+  aspect-ratio: 1;
+  background: black;
+  rotate: 45deg;
+  border-radius: 80% 0;
+}
+
+#retina {
+  top: 50px;
+  left: 50px;
+  width: 50px;
+  aspect-ratio: 1;
+  background: white;
+  rotate: 45deg;
+  border-radius: 80%;
+}
+
+#iris {
+  top: 60px;
+  left: 60px;
+  width: 30px;
+  aspect-ratio: 1;
+  background: blue;
+  rotate: 45deg;
+  border-radius: 80%;
+}
+

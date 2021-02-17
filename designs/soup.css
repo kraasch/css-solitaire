@@ -1,0 +1,54 @@
+div {
+	position: fixed;
+}
+
+#body {
+	background-color:#222;
+	top:0; left:0;
+	width:100%; height:100%;
+}
+
+#touch {
+	background-color:#000000;
+	border-radius:28%;
+	top:73; left:71;
+	width:31; height:7;
+	z-index:5;
+}
+
+#spoon {
+	transform: rotate(-45deg);
+	background-color:#CFD8DC;
+	border-radius:50%;
+	border:6px solid black;
+	top:38; left:68;
+	width:77; height:7;
+	z-index:4;
+}
+
+#soup {
+	background-color:#FEC007;
+	border-radius:50%;
+	border:6px solid black;
+	top:62; left:8;
+	width:112; height:18;
+	z-index:3;
+}
+
+#back {
+	background-color:#F7F7F8;
+	border-radius:50%;
+	border:6px solid black;
+	top:50; left:0;
+	width:130; height:30;
+	z-index:2;
+}
+
+#bowl {
+	background-color:#607D8B;
+	border-radius:0 0 150px 150px; 
+	border:6px solid black;
+	top:65; left:0;
+	width:130; height:65;
+	z-index:1;
+}
