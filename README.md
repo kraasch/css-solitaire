@@ -29,6 +29,7 @@ Basics:
  - [ ] make algorithm compare image to CSS replica (allow comparison to have some predefined tolerance).
  - [ ] allow user to pick his own tolerance for the comparison.
  - [ ] add more designs.
+ - [ ] implement a picker for the expected CSS design, eg as a drop-down grid of the designs in `./designs/`.
  - [ ] implement in pure javascript.
 
 Extras:
