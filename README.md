@@ -35,6 +35,7 @@ Basics:
 Extras:
 
  - [ ] implement helper tool: color picker.
+ - [ ] publish the whole thing as a vue3 component.
 
 ## Preview
 
