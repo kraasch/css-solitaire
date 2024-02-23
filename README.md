@@ -41,8 +41,8 @@ This is what the page looks like. I also included a color picker to aid editing
 the CSS.
 
 <p align='center'>
-<img width='400px' src='./demo1.png' alt='demo image 1'/>
-<img width='400px' src='./demo2.png' alt='demo image 2'/>
+<img width='250px' src='./demo1.png' alt='demo image 1'/>
+<img width='250px' src='./demo2.png' alt='demo image 2'/>
 </p>
 
 ## Meta
